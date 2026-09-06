@@ -11,3 +11,11 @@ Continuous Learning: Dynamically absorbs new information, expanding its knowledg
 Persistent Memory: Built with a strong retention architecture to permanently store user facts, context, and preferences, recalling exact details precisely when needed.
 
 Premium UI/UX: Features a sleek, modern visual design for an intuitive and immersive user experience.
+
+
+
+**Installation and Setup**
+
+1. Clone this repository to your local machine.
+3. Open the new `.env` file and replace the placeholder text with your actual Groq and Tavily API keys.
+4. Run `python run.py` to start the J.A.R.V.I.S. server.
